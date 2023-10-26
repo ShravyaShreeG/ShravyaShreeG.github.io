@@ -1,5 +1,6 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Lato:300,400,900");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css");
 @import url("fontawesome-brands.min.css");
 /*
 	Twenty by HTML5 UP
@@ -1934,30 +1935,21 @@ input, select, textarea {
 				top: -0.2em;
 			}
 
-			.icon.circle.fa-twitter {
-				background: #70aecd;
-				color: #fff;
-			}
-
-				.icon.circle.fa-twitter:hover {
-					background: #7fb7d2;
-				}
-
-			.icon.circle.fa-facebook-f {
+			.icon.circle.fa-linkedin {
 				background: #7490c3;
 				color: #fff;
 			}
 
-				.icon.circle.fa-facebook-f:hover {
+				.icon.circle.fa-linkedin:hover{
 					background: #829bc9;
 				}
 
-			.icon.circle.fa-google-plus-g {
+			.icon.circle.fa-envelope {
 				background: #db6b67;
 				color: #fff;
 			}
 
-				.icon.circle.fa-google-plus-g:hover {
+				.icon.circle.fa-envelope:hover {
 					background: #df7b77;
 				}
 
@@ -1970,14 +1962,7 @@ input, select, textarea {
 					background: #e1b89b;
 				}
 
-			.icon.circle.fa-dribbble {
-				background: #da83ae;
-				color: #fff;
-			}
 
-				.icon.circle.fa-dribbble:hover {
-					background: #df93b8;
-				}
 
 		.icon.featured {
 			cursor: default;
